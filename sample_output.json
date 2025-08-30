@@ -1,0 +1,17 @@
+{
+  "httpStatusCode": "OK",
+  "responseCode": 200,
+  "message": "Successfully fetched the violation data",
+  "data": [
+    {
+      "incidentId": 9462225,
+      "incidentTime": "2024-05-17T10:42:12.431+00:00",
+      "licensePlateNumber": "UP65AD1234",
+      "displayImageUrl": "...",
+      "distanceInMeters": 11.38,
+      "violationCount": 12,
+      "totalFineAmount": 34246.0
+    },
+    ...
+  ]
+}
