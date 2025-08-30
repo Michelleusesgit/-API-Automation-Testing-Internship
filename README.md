@@ -41,8 +41,8 @@ This repository documents my **API Testing internship at Beltech AI**, where I p
 ## 📌 Internship Details  
 
 - **Company:** Beltech AI  
-- **Role:** API Testing Intern  
-- **Duration:** May 2024 – July 2024  
+- **Role:** Software Engineer Intern  
+- **Duration:** Jun 2024 – Aug 2024  
 - **Focus:** API Automation & Manual Testing  
 
 ---
