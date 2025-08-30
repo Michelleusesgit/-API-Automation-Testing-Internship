@@ -38,6 +38,15 @@ This repository documents my **API Testing internship at Beltech AI**, where I p
 
 ---
 
+## 📌 Internship Details  
+
+- **Company:** Beltech AI  
+- **Role:** API Testing Intern  
+- **Duration:** May 2024 – July 2024  
+- **Focus:** API Automation & Manual Testing  
+
+---
+
 ## ✅ Sample Test Snippet  
 
 ```javascript
@@ -48,12 +57,4 @@ pm.test("Status code is 200", function () {
 pm.test("Response contains userId", function () {
     var jsonData = pm.response.json();
     pm.expect(jsonData).to.have.property("userId");
-});
-
- 📌 Internship Details  
-
-- **Company:** Beltech AI  
-- **Role:** Software Engineer Intern  
-- **Duration:** Jun 2024 – Aug 2024  
-- **Focus:** API Automation & Manual Testing  
-
+}); 
